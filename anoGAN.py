@@ -175,6 +175,7 @@ if __name__ == '__main__':
     d_optim = Adam(lr=0.0001, beta_1=0.5, beta_2=0.999)
 
     """"""
+    #
     from torch.utils.data import Dataset
     data_list = []
     orn_list =[]
